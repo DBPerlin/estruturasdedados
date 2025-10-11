@@ -1,7 +1,7 @@
 # Fibonacci
 A famosa sequência de Fibonacci é aquela em que um elemento é definido como sendo a soma dos dois anteriores. Matematicamente falando,
 
-<img title="image1" alt="fibonacci" src="/questoes/image_fibonacci.png">
+<img title="image1" alt="fibonacci" src="/lista2/questoes/image_fibonacci.png">
 
 Sua tarefa, neste exercício, é implementar, utilizando recursão, a função de Fibonacci de forma eficiente.
 
